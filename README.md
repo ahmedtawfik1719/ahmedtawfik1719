@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif"/>
 <br/>
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5466333.png" width="318" height="84" alt="Horario" /></a>
-<br/>
 
 | Materia                          | Docente                        |  Lunes  |  Martes | Miercoles |  Jueves | Viernes |
 
