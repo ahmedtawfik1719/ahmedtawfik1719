@@ -1,16 +1,45 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif"/>
+<br/>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5466333.png" width="318" height="84" alt="Horario" /></a>
+<br/>
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" border="0"/></a>
+<br/>
 
-<!--
-**ahmedtawfik1719/ahmedtawfik1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Materia                          | Docente                        |  Lunes  |  Martes | Miercoles |  Jueves | Viernes |
+|----------------------------------|--------------------------------|:-------:|:-------:|:---------:|:-------:|:-------:|
+| Inteligencia artificial          | Arnuflo Alaniz Garza           | 2pm-3pm | 2pm-3pm |  2pm-3pm  | 2pm-3pm | ******* |
+| Gestion de proyectos software    | Trinidad Castro Villa          | 3pm-4pm | 3pm-4pm |  3pm-4pm  | 3pm-4pm | 2pm-4pm |
+| Sistemas programables            | Rene Solis Reyes               | 4pm-5pm | 4pm-5pm |  4pm-5pm  | 4pm-5pm | ******* |
+| Taller de investigacion II       | Jose Sergio Magdaleno Palencia | 5pm-6pm | 5pm-6pm |  5pm-6pm  | 5pm-6pm | ******* |
+| Leguajes y automatas II          | Luis Alfonso Gaxiola Vega      | 6pm-7pm | 6pm-7pm |  6pm-7pm  | 6pm-7pm | ******* |
+| Plan de negocios                 | Maria Paulina Luna Alvares     | 7pm-8pm | 7pm-8pm |  7pm-8pm  | 7pm-8pm | 7pm-8pm |
 
-Here are some ideas to get you started:
+# Un poco sobre mí
+- *Actualmente estudio la ingenieria en sistemas computacionales.*
+- *Trabajo como programador web en grupo gurú.*
+- *Freelancer como programador.*
+- *Estoy fundando una agencia de marketing digital y desarrollo de software*
+- *Emprendedor.*
+- *Ex-alumnod de la Preparatoria Federal Lázaro Cárdenas*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Lenguajes y tecnologías
+- *Javascript*
+- *Php*
+- *Ajax*
+- *HTML5*
+- *CSS3*
+- *C#*
+- *SQL*
+- *Jquery*
+- *Wordpress*
+- *Node Js*
+
+# Proyectos realizados
+## Nota: a lo largo del año pasado y del presente he desarrollado mas de 50 páginas, enlisto algunas de tantas.
+| **Urológo**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | **Neurocirujano**                                                                                                                                                                                                                                                                                                                                                                                                        | **Otorrinolaringológo**                                                                                                                                                                                                                                                                                                                                                                                              | **SPSIndustrial**                                                                                                                                                                                                                                                                                                                                                                                                 |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <a target="_blank" href="https://www.urologiatijuana.com/">https://www.urologiatijuana.com/</a> | <a href="https://aciteducacion.com/">https://aciteducacion.com/</a> | <a target="_blank" href="https://otorrinotecate.com/">https://otorrinotecate.com/</a>   | <a target="_blank" href="https://spsindustrial.com.mx/">https://spsindustrial.com.mx/</a>            |
+| *Creación de página web, montada en un servidor y creación de SEO.*                                                                                                                                                                                                                                                                                                                                                                                                                              | *Creación de página web, montada en un servidor y creación de SEO.*                                                                                                                                                                                                                                                                                                                                                    | *Creación de página web, montada en un servidor y creación de SEO.*                                                                                                                                                                                                                                                                                                                                                | *Creación de página web, montada en un servidor y creación de SEO.*                                                                                                                                                                                                                                                                                                                                             |
+| **DrinkGame**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Gahir**                                                                                                                                                                                                                                                                                                                                                                                                                | **Puertas y Cortinas**                                                                                                                                                                                                                                                                                                                                                                                               | **ArzaSeguridad**                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <a target="_blank" href="http://porta-blanco.000webhostapp.com/">http://porta-blanco.000webhostapp.com/</a>                                                                      | <a target="_blank" href="http://gahir.mx/">http://gahir.mx/</a> | <a target="_blank" href="https://puertasycortinas.com/">https://puertasycortinas.com/</a> | <a target="_blank" href="https://arzaseguridad.com/">https://arzaseguridad.com/</a> |
+| *Aplicación Web que es para beber socialmente, consiste en una serie de juegos. Solo esta adaptada a móvil.*                                                                                                                                                                                                                                                                                                                                                                                     | *Creación de página web, montada en un servidor y creación de SEO.*                                                                                                                                                                                                                                                                                                                                                    | *Creación de página web, montada en un servidor y creación de SEO.*                                                                                                                                                                                                                                                                                                                                                | *Creación de página web, montada en un servidor y creación de SEO.*                                                                                                                                                                                                                                                                                                                                             |
