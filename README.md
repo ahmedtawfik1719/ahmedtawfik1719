@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif"/>
 <br/>
 
-| Materia                          | Docente                        |  Lunes  |  Martes | Miercoles |  Jueves | Viernes |
+| Softwaretester                          | Docente                        |  Lunes  |  Martes | Miercoles |  Jueves | Viernes |
 
 # Un poco sobre mí
 - *Actualmente estudio la ingenieria en sistemas computacionales.*
