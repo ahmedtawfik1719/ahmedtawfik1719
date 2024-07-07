@@ -6,13 +6,6 @@
 <br/>
 
 | Materia                          | Docente                        |  Lunes  |  Martes | Miercoles |  Jueves | Viernes |
-|----------------------------------|--------------------------------|:-------:|:-------:|:---------:|:-------:|:-------:|
-| Inteligencia artificial          | Arnuflo Alaniz Garza           | 2pm-3pm | 2pm-3pm |  2pm-3pm  | 2pm-3pm | ******* |
-| Gestion de proyectos software    | Trinidad Castro Villa          | 3pm-4pm | 3pm-4pm |  3pm-4pm  | 3pm-4pm | 2pm-4pm |
-| Sistemas programables            | Rene Solis Reyes               | 4pm-5pm | 4pm-5pm |  4pm-5pm  | 4pm-5pm | ******* |
-| Taller de investigacion II       | Jose Sergio Magdaleno Palencia | 5pm-6pm | 5pm-6pm |  5pm-6pm  | 5pm-6pm | ******* |
-| Leguajes y automatas II          | Luis Alfonso Gaxiola Vega      | 6pm-7pm | 6pm-7pm |  6pm-7pm  | 6pm-7pm | ******* |
-| Plan de negocios                 | Maria Paulina Luna Alvares     | 7pm-8pm | 7pm-8pm |  7pm-8pm  | 7pm-8pm | 7pm-8pm |
 
 # Un poco sobre mí
 - *Actualmente estudio la ingenieria en sistemas computacionales.*
