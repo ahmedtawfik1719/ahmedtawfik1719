@@ -2,8 +2,6 @@
 <br/>
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5466333.png" width="318" height="84" alt="Horario" /></a>
 <br/>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" border="0"/></a>
-<br/>
 
 | Materia                          | Docente                        |  Lunes  |  Martes | Miercoles |  Jueves | Viernes |
 
