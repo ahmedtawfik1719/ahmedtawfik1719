@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Git hub](https://img.shields.io/badge/Github-F00000?style=flat&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-F00000?style=flat&logo=git&logoColor=white)
 
 
 ---
